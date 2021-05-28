@@ -3,7 +3,7 @@ About r-mi
 
 Home: http://www.stat.columbia.edu/~gelman/
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mi-feedstock/blob/master/LICENSE.txt)
 
