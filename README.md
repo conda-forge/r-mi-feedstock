@@ -1,11 +1,11 @@
-About r-mi
-==========
+About r-mi-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mi-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.stat.columbia.edu/~gelman/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mi-feedstock/blob/main/LICENSE.txt)
 
 Summary: The mi package provides functions for data manipulation, imputing missing values in an approximate Bayesian framework, diagnostics of the models used to generate the imputations, confidence-building mechanisms to validate some of the assumptions of the imputation algorithm, and functions to analyze multiply imputed data sets with the appropriate degree of sampling uncertainty.
 
