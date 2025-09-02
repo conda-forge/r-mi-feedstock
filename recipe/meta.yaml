@@ -1,4 +1,4 @@
-{% set version = "1.1" %}
+{% set version = "1.2" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,11 +9,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/mi_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/mi/mi_{{ version }}.tar.gz
-  sha256: 4d7a9790dbdc675605d70755af9aa80c21a279be5a5d712b22d77465772cc785
+  sha256: 06d209b4e031ee0431421041f698804006f86eefff10779bc246e3fd22dc6d8c
 
 build:
   noarch: generic
-  number: 3
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
